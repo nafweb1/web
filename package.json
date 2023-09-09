@@ -39,6 +39,7 @@
 	"dependencies": {
 		"@prismicio/client": "^7.1.1",
 		"@prismicio/svelte": "^0.1.2",
-		"clsx": "^2.0.0"
+		"clsx": "^2.0.0",
+		"prismic": "^0.0.1"
 	}
 }
