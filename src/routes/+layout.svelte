@@ -8,5 +8,7 @@
 
 <div class="text-slate-800">
 	<Header navigation={data.navigation} settings={data.settings} />
-	<main><slot /></main>
+	<main>
+		<slot />
+	</main>
 </div>
